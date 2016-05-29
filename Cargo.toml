@@ -4,3 +4,7 @@ version = "0.1.0"
 authors = ["tzhenghao <tanzhao@umich.edu>"]
 
 [dependencies]
+iron = "0.2.2"
+mime = "0.1.0"
+router = "0.0.15"
+urlencoded = "*"
